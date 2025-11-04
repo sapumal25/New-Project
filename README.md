@@ -20,6 +20,7 @@ My personal motivation is driven by the belief that small, frequent actions, whe
 
 The solution is used by urban commuters via a **mobile application** similar to existing route planners.
 
+274E0907-0081-4B1D-904E-2C30518079FC.png
 **The process:**
 1.  **User Input:** The user enters their start and end points and desired arrival time.
 2.  **Route Calculation:** The system calculates multiple public transit routes (bus, train, subway).
