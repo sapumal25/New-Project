@@ -16,6 +16,7 @@ My personal motivation comes from the belief that small, frequent actions can ha
 
 Urban commuters use the solution via a **mobile application** similar to existing route planners.
 
+![image of co2](/cat_image.jpg)
 **Process:**
 1. **User Input:** Enter start/end points and desired arrival time.
 2. **Route Calculation:** System calculates multiple public transit routes (bus, train, subway).
